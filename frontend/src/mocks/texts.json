@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "Shipment SH-1042 left the Sofia warehouse. Expected in Plovdiv at 14:30."
+  },
+  {
+    "id": 2,
+    "text": "Carrier delay on Burgas–Varna. Dispatch notified the driver."
+  },
+  {
+    "id": 3,
+    "text": "Proof of delivery received for order 8831. Invoice is ready to send."
+  }
+]
