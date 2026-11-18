@@ -1,0 +1,11 @@
+services:
+  mysql:
+    build: .
+    container_name: logistics-mysql
+    ports:
+      - "3306:3306"
+    volumes:
+      - logistics-mysql-data:/var/lib/mysql
+
+volumes:
+  logistics-mysql-data:
